@@ -1,0 +1,12 @@
+nav {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-shadow: 1px 1px 5px rgba(255, 0, 0, 0.442);
+}
+
+nav span {
+  transition: 0.3s ease-in;
+}
+
+nav span:hover {
+  color: rgb(185, 138, 138);
+}
